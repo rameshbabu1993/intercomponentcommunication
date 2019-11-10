@@ -1,0 +1,9 @@
+<div>
+    <input-form [first_name]="initData.first_name" [last_name]="initData.last_name" (submitForm)="showSummary($event)"></input-form>
+    <div *ngIf="formSubmitted">
+        <h4>Submitted form Data</h4>
+        <p>First Name: {{subData.first_name}}</p>
+        <p>Last Name: {{subData.last_name}}</p>
+        <button type="button" i18n on-click="revert()">Revert</button>
+    </div>
+</div>

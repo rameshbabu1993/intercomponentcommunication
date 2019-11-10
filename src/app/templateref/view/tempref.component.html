@@ -1,0 +1,9 @@
+<div>
+    <temp-form #formRef></temp-form>
+    <div *ngIf="formRef.formSubmitted">
+        <h4>Submitted form Data</h4>
+        <p>First Name: {{formRef.first_name}}</p>
+        <p>Last Name: {{formRef.last_name}}</p>
+        <button type="button" i18n on-click="formRef.revert()">Revert</button>
+    </div>
+</div>

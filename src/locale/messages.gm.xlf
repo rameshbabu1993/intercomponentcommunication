@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="47d4d0d630fb480e6f7dd6eb684f15877e8db9f2" datatype="html">
+        <source>Revert</source>
+        <target>zurückkehren</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/viainput/view/input.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templateref/view/tempref.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/viewchild/view/viewchild.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ef1331d8deb048404fa1f02b388a9bd8352d3138" datatype="html">
+        <source> First Name: <x id="TAG_INPUT" ctype="x-input" equiv-text="&lt;input/&gt;"/></source>
+        <target>Vorname: <x id="TAG_INPUT" ctype="x-input" equiv-text="&lt;input/&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/viainput/view/input-form.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templateref/view/tempref-form.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/viewchild/view/viewchild-form.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/viaservice/view/ser-form.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c7b9b486551b0f59f20f5200a3f9f7cdfbf034ac" datatype="html">
+        <source> Last Name: <x id="TAG_INPUT" ctype="x-input" equiv-text="&lt;input/&gt;"/></source>
+        <target>Nachname: : <x id="TAG_INPUT" ctype="x-input" equiv-text="&lt;input/&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/viainput/view/input-form.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templateref/view/tempref-form.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/viewchild/view/viewchild-form.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/viaservice/view/ser-form.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
